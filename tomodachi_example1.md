@@ -1,7 +1,6 @@
 # Welcoming message
 
-
-Hello my friends! 
+Hello, my friends! 
 
 Let's test what you've learned.
 
