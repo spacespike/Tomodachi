@@ -30,5 +30,9 @@ Here we'll take a look at the most basic command used in Git.
 
 ### Git checkout
 
+This is important command, yet I don7t know much about it. Usially we use *git checkout* to switch from one branch to another (the full command is: *__git checkout <branch_name>__*). I've read that there is an experimental switch command to do the same, but never saw that in practice.
+
+Also I usually use label **-b** with this command to create and switch to a new branch like that *__git checkout -b <branch_name>__*. For now, I find it faster and convenient, that using two separete commands, *git branch* and then *git checkout*.
+
 ### Git merge
 
