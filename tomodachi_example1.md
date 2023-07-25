@@ -36,3 +36,4 @@ Also I usually use label **-b** with this command to create and switch to a new 
 
 ### Git merge
 
+Print("Hello World")
